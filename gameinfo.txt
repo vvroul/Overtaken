@@ -1,0 +1,37 @@
+"GameInfo"
+{
+	name        "Overtaken"
+	game 		"Overtaken"
+	title 		"Overtaken"
+	title2 		""
+	type		singleplayer_only
+	icon 		"resource\icon" 
+	homepage 	"" 
+	developer 	"" 
+
+	FileSystem
+	{
+		SteamAppId				220
+		
+		SearchPaths
+		{
+			game+mod			|gameinfo_path|.
+			platform			  |gameinfo_path|.
+			
+			game_lv				hl2/hl2_lv.vpk
+			game+mod			hl2/hl2_sound_vo_english.vpk
+			game+mod			hl2/hl2_pak.vpk
+			game				|all_source_engine_paths|hl2/hl2_textures.vpk
+			game				|all_source_engine_paths|hl2/hl2_sound_misc.vpk
+			game				|all_source_engine_paths|hl2/hl2_misc.vpk
+			platform			|all_source_engine_paths|platform/platform_misc.vpk
+			
+			mod+mod_write+default_write_path  |gameinfo_path|.
+			game+game_write			  |gameinfo_path|.
+			gamebin				hl2/bin
+			
+			game				|all_source_engine_paths|hl2
+			platform			|all_source_engine_paths|platform
+		}
+	}
+}
