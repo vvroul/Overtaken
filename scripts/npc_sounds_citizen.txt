@@ -3675,7 +3675,7 @@
 
 	"soundlevel"	"SNDLVL_NORM"
 
-	"wave"			"*vo/npc/$gender01/mygu01.wav"
+	"wave"			"*vo/npc/$gender01/mygut02.wav"
 }
 
 "npc_citizen.mygut02"

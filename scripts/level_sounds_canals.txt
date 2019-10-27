@@ -148,9 +148,9 @@
 	"volume"		"0.850000"
 	"pitch"			"100"
 
-	"soundlevel"	"SNDLVL_105dB"
+	"soundlevel"	"SNDLVL_120db"
 
-	"wave"			"*#music/HL2_song0.mp3"
+	"wave"			"music/HL2_ambient_1.wav"
 }
 
 "d1_canals.Floodgate_Move_Short"

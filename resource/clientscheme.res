@@ -633,8 +633,8 @@ Scheme
 			"1"
 			{
 				"name"  "Metal Macabre"
-				"tall"			"46"
-				"tall_hidef"	"60"
+				"tall"			"128"
+				"tall_hidef"	"142"
 				"weight" "0"
 				"additive" "0"
 				"antialias" "1"
@@ -792,8 +792,8 @@ Scheme
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	CustomFontFiles
 	{
-		"1"		"resource/halflife2.ttf"
-		"2"		"resource/hl2crosshairs.ttf"
+		"1"		"resource/HALFLIFE2.ttf"
+		"2"		"resource/HL2crosshairs.ttf"
 		"3"		"resource/MetalMacabre.ttf"
 	}
 

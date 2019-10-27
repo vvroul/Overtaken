@@ -19,14 +19,16 @@
 	"N"			"Impact.Sand"
 	"V"			"Impact.Metal"
 
-// These might be translated in the future
-	//CHAR_TEX_DIRT		'D'
-	//CHAR_TEX_GRATE		'G'
-	//CHAR_TEX_TILE		'T'
-	//CHAR_TEX_SLOSH		'S'
-	//CHAR_TEX_COMPUTER	'P'
-	//CHAR_TEX_CLIP		'I'
-	//CHAR_TEX_FOLIAGE	'O'
+//new subrects
+	"G"			"Impact.Metal"
+	"T"			"Impact.Concrete"
+	"I"			""
+	"O"			"Impact.Wood"
+	"P"			"Impact.Concrete"
+	"L"			"Impact.Concrete"
+	"D"			"Impact.Concrete"
+	"S"			""
+	"X"			""
 }
 
 "Impact.Concrete"

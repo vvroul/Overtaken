@@ -49,7 +49,7 @@
 	"soundlevel"  "SNDLVL_100dB"
 	"pitch"		"PITCH_NORM"
 	
-	"wave"	"music/HL2_ambient_1.wav"
+	"wave"	"ambient/machines/wall_ambient_loop1.wav"
 }
 
 //"E3_Under_02.Music"
